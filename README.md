@@ -1,5 +1,5 @@
 # Github Demo Testen. 
 
-Hey, ik gebruik dit om uit tezoeken hoe github werkt! <br> 
-Krijg ik dit te zien op mijn github? <br> 
-ik heb een tweede deel aan toegevoegd. 
+Hey, I'm using this to find out how github works!<br>
+Will I see this on my github?<br>
+I added a second part.
